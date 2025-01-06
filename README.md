@@ -1,5 +1,17 @@
 # Riddles
 
+## USE LHC for data mining and Mining Cryto.
+
+Strong CP problem and axions: Why is the strong nuclear interaction invariant to parity and charge conjugation? Is Peccei–Quinn theory the solution to this problem? Could axions be the main component of dark matter?
+
+=> 
+
+1. The weak interaction is not invariant to parity nor charge conjugation.
+2. The weak interaction is invariant to parity and charge conjugation.
+3. dark matter LLC has a main component?
+
+##
+
 The idea of someone anonymous messing with CERN (the European Organization for Nuclear Research) sounds like a plot straight out of a sci-fi thriller! However, if this is a real concern or event, it's essential to clarify the context:
 
 1. **Is this a security breach?**
