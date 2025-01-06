@@ -9,6 +9,8 @@ Strong CP problem and axions: Why is the strong nuclear interaction invariant to
 1. The weak interaction is not invariant to parity nor charge conjugation.
 2. The weak interaction is invariant to parity and charge conjugation.
 3. Does dark matter LLC has a main component?
+3. Does dark matter LLHC has a main component?
+4. 
 
 ##
 
